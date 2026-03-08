@@ -1,0 +1,14 @@
+{
+    "name": "zombienet-tester",
+    "version": "1.0.0",
+    "description": "Mini tester project for the ZombieNet API Gateway",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "nodemon index.js"
+    },
+    "dependencies": {
+        "express": "^5.2.1",
+        "nodemon": "^3.1.14"
+    }
+}
